@@ -1,0 +1,27 @@
+body {
+    padding: 250px;
+}
+
+h1 {
+    /*font-family: 'Gruppo', sans-serif;*/
+    font-family: 'Manrope', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Libre Barcode 39', system-ui;
+    text-align: center;
+}
+
+button {
+    font-family: 'Manrope', sans-serif;
+}
+
+.button {
+    text-align: center;
+}
+
+.shadow:hover {
+    box-shadow: 0 10px 14px 0 rgba(0, 0, 0, 0.24), 0 14px 40px 0
+    rgba(0, 0, 0, 0.19);
+}
